@@ -1,0 +1,11 @@
+# pychache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database
+*.sqlite3
+
+#django migrations
+*/migrations/__pycache__/
