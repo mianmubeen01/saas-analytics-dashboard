@@ -9,3 +9,6 @@ __pycache__/
 
 #django migrations
 */migrations/__pycache__/
+
+# virtual enviroment
+myenv
